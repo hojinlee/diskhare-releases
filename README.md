@@ -1,3 +1,5 @@
+<img src="icon.png" alt="DiskHare icon" width="128" height="128">
+
 # DiskHare releases
 
 Downloads and update feed for DiskHare by SlowHare.
