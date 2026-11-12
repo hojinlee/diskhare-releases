@@ -4,6 +4,15 @@
     <title>DiskHare</title>
     <language>en</language>
     <item>
+      <title>DiskHare 1.1.0</title>
+      <pubDate>Wed, 11 Nov 2026 10:58:18 GMT</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>DiskHare now speaks Korean, Japanese, Simplified and Traditional Chinese, Spanish, French, German and Portuguese (Brazil). Send Feedback lives in the Help menu. Names for Windows keeps its header and Fix button visible with long lists. Backup status that can&#x27;t be read now says so, restore messages use the right singular or plural, and the version line no longer covers the bottom of the sidebar.</p>]]></description>
+      <enclosure url="https://github.com/hojinlee/diskhare-releases/releases/download/v1.1.0/DiskHare-1.1.0.zip" type="application/octet-stream" sparkle:edSignature="Y38I9kGk171anj3QgxXfmpbcwF7mfYThgMxPZQZfImID2v4OhM+lRgo4IF2LGjHU6JspDVWpkZgRTNdlLLlcBg==" length="10612712" />
+    </item>
+    <item>
       <title>DiskHare 1.0.1</title>
       <pubDate>Wed, 11 Nov 2026 02:20:28 GMT</pubDate>
       <sparkle:version>4</sparkle:version>
