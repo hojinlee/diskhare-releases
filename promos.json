@@ -16,15 +16,15 @@
         "pt-BR": "Registre seu peso e os dias durante o uso de injeções de GLP-1 e enquanto você faz uma pausa."
       },
       "platforms": {
-        "en": "iPhone · Android",
-        "ko": "iPhone · Android",
-        "ja": "iPhone · Android",
-        "zh-Hans": "iPhone · Android",
-        "zh-Hant": "iPhone · Android",
-        "es": "iPhone · Android",
-        "fr": "iPhone · Android",
-        "de": "iPhone · Android",
-        "pt-BR": "iPhone · Android"
+        "en": "iPhone · iPad · Android",
+        "ko": "iPhone · iPad · Android",
+        "ja": "iPhone · iPad · Android",
+        "zh-Hans": "iPhone · iPad · Android",
+        "zh-Hant": "iPhone · iPad · Android",
+        "es": "iPhone · iPad · Android",
+        "fr": "iPhone · iPad · Android",
+        "de": "iPhone · iPad · Android",
+        "pt-BR": "iPhone · iPad · Android"
       },
       "bundledIcon": "CalandoIcon",
       "icon": "https://raw.githubusercontent.com/hojinlee/diskhare-releases/main/promos/calando.png",
