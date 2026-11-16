@@ -5,16 +5,51 @@
       "id": "calando",
       "name": "Calando",
       "line": {
-        "en": "Log your weight and days while on GLP-1 shots, and while you pause them.",
-        "ko": "GLP-1 주사를 맞는 동안과 쉬는 동안의 체중과 날짜를 기록하세요.",
-        "ja": "GLP-1注射の期間中と休薬中の体重と日数を記録できます。",
-        "zh-Hans": "记录使用 GLP-1 注射期间及暂停期间的体重和天数。",
-        "zh-Hant": "在使用 GLP-1 針劑期間及暫停期間，記錄你的體重與天數。",
-        "es": "Registra tu peso y tus días mientras te pones inyecciones de GLP-1 y mientras las pausas.",
-        "fr": "Notez votre poids et vos jours sous injections de GLP-1, ainsi que pendant vos pauses.",
-        "de": "Erfassen Sie Gewicht und Tage während GLP-1-Spritzen und in Pausen.",
-        "pt-BR": "Registre seu peso e os dias durante o uso de injeções de GLP-1 e enquanto você faz uma pausa."
+        "en": "A log to keep alongside your GLP-1 shots",
+        "ko": "GLP-1 주사와 함께 쓰는 기록장",
+        "ja": "GLP-1注射と一緒に使う記録帳",
+        "zh-Hans": "配合 GLP-1 注射使用的记录本",
+        "zh-Hant": "搭配 GLP-1 注射使用的紀錄本",
+        "es": "Tu diario para acompañar las inyecciones de GLP-1",
+        "fr": "Le carnet qui accompagne vos injections de GLP-1",
+        "de": "Das Tagebuch zu Ihren GLP-1-Spritzen",
+        "pt-BR": "Um diário para usar junto com as injeções de GLP-1"
       },
+      "lines": [
+        {
+          "en": "A log to keep alongside your GLP-1 shots",
+          "ko": "GLP-1 주사와 함께 쓰는 기록장",
+          "ja": "GLP-1注射と一緒に使う記録帳",
+          "zh-Hans": "配合 GLP-1 注射使用的记录本",
+          "zh-Hant": "搭配 GLP-1 注射使用的紀錄本",
+          "es": "Tu diario para acompañar las inyecciones de GLP-1",
+          "fr": "Le carnet qui accompagne vos injections de GLP-1",
+          "de": "Das Tagebuch zu Ihren GLP-1-Spritzen",
+          "pt-BR": "Um diário para usar junto com as injeções de GLP-1"
+        },
+        {
+          "en": "Compare with the weight-loss pace you want",
+          "ko": "내가 원하는 감량 속도와 비교",
+          "ja": "目標の減量ペースと比べる",
+          "zh-Hans": "与你想要的减重速度对比",
+          "zh-Hant": "與你想要的減重速度比較",
+          "es": "Compara con el ritmo de pérdida que buscas",
+          "fr": "Comparez avec le rythme de perte que vous visez",
+          "de": "Vergleichen Sie mit Ihrem Wunschtempo beim Abnehmen",
+          "pt-BR": "Compare com o ritmo de perda que você quer"
+        },
+        {
+          "en": "See your weight-loss pace while on shots",
+          "ko": "주사 맞는 동안 감량 속도 확인",
+          "ja": "注射中の減量ペースを確認",
+          "zh-Hans": "注射期间查看减重速度",
+          "zh-Hant": "注射期間查看減重速度",
+          "es": "Mira tu ritmo de pérdida mientras te inyectas",
+          "fr": "Suivez votre rythme de perte pendant les injections",
+          "de": "Abnehmtempo während der Spritzen im Blick",
+          "pt-BR": "Veja seu ritmo de perda enquanto usa as injeções"
+        }
+      ],
       "platforms": {
         "en": "iPhone · iPad · Android",
         "ko": "iPhone · iPad · Android",
