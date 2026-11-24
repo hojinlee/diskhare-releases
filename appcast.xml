@@ -4,6 +4,15 @@
     <title>DiskHare</title>
     <language>en</language>
     <item>
+      <title>DiskHare 1.2.0</title>
+      <pubDate>Tue, 24 Nov 2026 06:27:57 GMT</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p></p>]]></description>
+      <enclosure url="https://github.com/hojinlee/diskhare-releases/releases/download/v1.2.0/DiskHare-1.2.0.zip" type="application/octet-stream" sparkle:edSignature="eRYINvAd09v1jryR8PD77G90R0hxmcIYbyJLS0yWWG7/ZKnkv+eYhnM+5fTSDAdCKAgZ7vLu4mJmmt76tfd4DA==" length="10816791" />
+    </item>
+    <item>
       <title>DiskHare 1.1.0</title>
       <pubDate>Wed, 11 Nov 2026 10:58:18 GMT</pubDate>
       <sparkle:version>8</sparkle:version>
